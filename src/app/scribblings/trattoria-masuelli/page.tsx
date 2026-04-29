@@ -10,7 +10,8 @@ export default function ArticlePage() {
       </header>
 
       <article className="article">
-        <p className="sectionLabel">May 2026</p>
+        <p className="sectionLabel">December 2023</p>
+        <p className="articleKicker">Milan / Food / Trattorie</p>
 
         <h1>Trattoria Masuelli San Marco</h1>
 
