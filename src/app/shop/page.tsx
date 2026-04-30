@@ -2,19 +2,19 @@ import Link from 'next/link';
 
 const products = [
   {
-    name: 'Our Man In Milan Classic Tee',
+    name: 'The Blue Man in Milan',
     description: 'The core shirt. Clean, simple, and wearable.',
     image: '/images/shop-placeholder-1.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan-blue-style-t?product=937&variation=103891',
   },
   {
-    name: 'Milan Blue Edition',
+    name: 'Classic Couple',
     description: 'A sharper version with a slightly more editorial feel.',
     image: '/images/shop-placeholder-2.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan-gentleman-blu?product=937&variation=103891',
   },
   {
-    name: 'Weekend Lunch Club',
+    name: 'Blue Special Edition',
     description: 'For those who understand the importance of a proper lunch.',
     image: '/images/shop-placeholder-3.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan?product=387&variation=103460',
