@@ -37,7 +37,7 @@ export default function AboutPage() {
             documentation, part opinion, occasionally useful.
           </p>
 
-          <p>— Stuart Hardie</p>
+          <p>— Our Man In Milan</p>
         </div>
       </section>
     </main>
