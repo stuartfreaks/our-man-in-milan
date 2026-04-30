@@ -36,7 +36,7 @@ export default function ShopPage() {
         </nav>
       </header>
 
-      <section className="interiorContent">
+      <section className="interiorContent shopContent">
         <p className="sectionLabel">Shop</p>
         <h1>Our Man In Milan T-shirts</h1>
         <p className="shopIntro">

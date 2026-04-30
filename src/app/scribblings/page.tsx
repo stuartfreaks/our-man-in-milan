@@ -33,6 +33,10 @@ export default function ScribblingsPage() {
 
         {/* ARTICLE LIST */}
         <div className="articleList">
+          <Link href="/scribblings/milan-the-new-dubai" className="articleItem">
+            <span>April 2026</span>
+            <h2>Milan — the new Dubai?</h2>
+          </Link>
           <Link href="/scribblings/milan-money" className="articleItem">
             <span>May 2026</span>
             <h2>Milan, Money, and the Performance of Ease</h2>
