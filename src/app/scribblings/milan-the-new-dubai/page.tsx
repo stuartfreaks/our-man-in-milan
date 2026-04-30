@@ -24,9 +24,9 @@ export default function ArticlePage() {
         </p>
 
         <p>
-          “Crucially, Milan has not yet surrendered to the fully interchangeable
+          Crucially, Milan has not yet surrendered to the fully interchangeable
           global luxury aesthetic. There is still enough local texture —
-          linguistic, social, architectural — to resist it.”
+          linguistic, social, architectural — to resist it.
         </p>
 
         <p>
