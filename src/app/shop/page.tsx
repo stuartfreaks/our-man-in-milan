@@ -8,13 +8,13 @@ const products = [
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan-blue-style-t?product=937&variation=103891',
   },
   {
-    name: 'Classic Couple',
+    name: 'Blue Special Edition',
     description: 'A sharper version with a slightly more editorial feel.',
     image: '/images/shop-placeholder-3.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan-gentleman-blu?product=937&variation=103891',
   },
   {
-    name: 'Blue Special Edition',
+    name: 'Classic Couple T-shirt',
     description: 'For those who understand the importance of a proper lunch.',
     image: '/images/shop-placeholder-2.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan?product=387&variation=103460',
