@@ -10,13 +10,13 @@ const products = [
   {
     name: 'Classic Couple',
     description: 'A sharper version with a slightly more editorial feel.',
-    image: '/images/shop-placeholder-2.jpg',
+    image: '/images/shop-placeholder-3.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan-gentleman-blu?product=937&variation=103891',
   },
   {
     name: 'Blue Special Edition',
     description: 'For those who understand the importance of a proper lunch.',
-    image: '/images/shop-placeholder-3.jpg',
+    image: '/images/shop-placeholder-2.jpg',
     href: 'https://ourmaninmilan.creator-spring.com/listing/our-man-in-milan?product=387&variation=103460',
   },
 ];
