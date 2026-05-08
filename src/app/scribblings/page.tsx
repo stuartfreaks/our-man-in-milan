@@ -37,11 +37,13 @@ export default function ScribblingsPage() {
             <span>April 2026</span>
             <h2>Milan — the new Dubai?</h2>
           </Link>
-          <Link href="/scribblings/milan-money" className="articleItem">
+          <Link
+            href="/scribblings/frangente-friday-night"
+            className="articleItem"
+          >
             <span>May 2026</span>
-            <h2>Milan, Money, and the Performance of Ease</h2>
+            <h2>Frangente — Friday Night at the Table</h2>
           </Link>
-
           <Link href="/scribblings/lunch-observations" className="articleItem">
             <span>May 2026</span>
             <h2>The Quiet Authority of a Good Lunch</h2>
