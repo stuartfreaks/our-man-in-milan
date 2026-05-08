@@ -11,14 +11,13 @@ export default function ArticlePage() {
 
       <article className="article">
         <p className="sectionLabel">May 2026</p>
-        <h1>The Quiet Authority of a Good Lunch</h1>
+        <p className="articleKicker">Milan / Wine / Lunches</p>
 
-        <p>A long lunch in Milan is not indulgence. It is structure.</p>
+        <h1>
+          Dal Vinattiere — where wine and everything good converge in one place
+        </h1>
 
-        <p>
-          The table becomes a place where decisions are deferred just long
-          enough to improve.
-        </p>
+        <p>Coming soon.</p>
       </article>
     </main>
   );

@@ -44,9 +44,12 @@ export default function ScribblingsPage() {
             <span>May 2026</span>
             <h2>Frangente — Friday Night at the Table</h2>
           </Link>
-          <Link href="/scribblings/lunch-observations" className="articleItem">
+          <Link href="/scribblings/dal-vinattiere" className="articleItem">
             <span>May 2026</span>
-            <h2>The Quiet Authority of a Good Lunch</h2>
+            <h2>
+              Dal Vinattiere — where wine and everything good converge in one
+              place
+            </h2>
           </Link>
 
           <Link href="/scribblings/trattoria-masuelli" className="articleItem">
