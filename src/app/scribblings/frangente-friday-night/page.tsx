@@ -78,8 +78,8 @@ export default function ArticlePage() {
         </p>
 
         <p>
-          The damage? €174 including wine, water, dessert and dessert wine. Not
-          exactly cheap, but Milan is an expensive town these days.
+          The damage? €87 per person including wine, water, dessert and dessert
+          wine. Not cheap, but Milan is an expensive town these days.
         </p>
       </article>
     </main>
