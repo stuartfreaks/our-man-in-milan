@@ -22,22 +22,21 @@ export default function AboutPage() {
 
         <div className="aboutText">
           <p>
-            Our Man In Milan is a personal publication based in Milan, exploring
-            style, money, culture, and the rituals of a well-lived life.
+            <em>Our Man In Milan</em> is a publication based in Milan exploring
+            food, money, culture and the rituals of a well-lived life.
           </p>
 
           <p>
-            It began as a place to record observations — lunches, streets,
-            habits, and the small details that define a city — and has since
-            grown into a broader reflection on modern European living.
+            It began as a home for observations — lunches, streets, habits and
+            the small details that define a city — and has since evolved into a
+            broader reflection on modern European living.
           </p>
+
+          <p>Essays, guides and photography from the centre of Milan.</p>
 
           <p>
-            The project sits somewhere between a column and a notebook: part
-            documentation, part opinion, occasionally useful.
+            — <em>Our Man In Milan</em>
           </p>
-
-          <p>— Our Man In Milan</p>
         </div>
       </section>
     </main>
