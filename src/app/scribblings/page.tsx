@@ -51,6 +51,13 @@ export default function ScribblingsPage() {
               place
             </h2>
           </Link>
+          <Link
+            href="/scribblings/kiwon-kimchi-revolution"
+            className="articleItem"
+          >
+            <span>May 2026</span>
+            <h2>Kiwon 기원 — The kimchi revolution on my street corner</h2>
+          </Link>
 
           <Link href="/scribblings/trattoria-masuelli" className="articleItem">
             <span>December 2023</span>
