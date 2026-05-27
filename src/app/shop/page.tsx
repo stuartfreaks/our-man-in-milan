@@ -70,7 +70,7 @@ export default function ShopPage() {
           <h2>Visit the full store</h2>
           <p>Browse the complete collection on Spring.</p>
           <a
-            href="https://my-store-name.creator-spring.com"
+            href="https://ourmaninmilan.creator-spring.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="shopButton"
