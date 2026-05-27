@@ -506,7 +506,7 @@ a {
   justify-content: space-between;
   background:
     linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.58)),
-    url('/images/OurManinMilan_Blue.jpg') center center / cover no-repeat;
+    url('/images/metro-station.jpg') center center / cover no-repeat;
 }
 
 .nav,
