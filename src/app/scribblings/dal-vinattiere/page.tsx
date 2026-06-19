@@ -72,7 +72,7 @@ export default function ArticlePage() {
         <p>
           La Paola — waitress, stage manager and quiet conductor of the room —
           Emidio, the proprietor, endlessly passionate about food and wine, and
-          Cash, who remains in the kitchen until the orders finally stop
+          Akash, who remains in the kitchen until the orders finally stop
           sometime after eleven, form a trio who complement one another
           perfectly, even if there is occasionally a friendly clash of
           personalities.
@@ -83,7 +83,7 @@ export default function ArticlePage() {
         <p>
           Small plates of tartare, beautiful servings of bresaola — no, you
           almost certainly have not had it prepared like this before — and the
-          quietly legendary <em>Toast di Cossiga</em> and Croque Monsieur,
+          quietly legendary <em>Toast di Casiga</em> and Croque Monsieur,
           perhaps the finest things one can place between two slices of bread.
         </p>
 
